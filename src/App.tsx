@@ -284,8 +284,6 @@ function App() {
     );
   };
 
-  const APP_URL = import.meta.env.VITE_APP_URL || 'https://tudominio.com';
-
   return (
     <div className="min-h-screen bg-gradient-to-br from-gray-50 via-white to-gray-50 dark:from-gray-900 dark:via-gray-900 dark:to-gray-800 text-gray-900 dark:text-gray-100 transition-colors duration-300 texture-overlay">
       {/* Navigation */}
