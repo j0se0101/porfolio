@@ -37,5 +37,22 @@
         }
       ]
     }
+  ],
+  "redirects": [
+    {
+      "source": "/linkedin",
+      "destination": "https://www.linkedin.com/in/eddevfdez/",
+      "permanent": false
+    },
+    {
+      "source": "/github", 
+      "destination": "https://github.com/j0se0101",
+      "permanent": false
+    },
+    {
+      "source": "/cv",
+      "destination": "/icons/CV EDUARDO FERNANDEZ.pdf",
+      "permanent": false
+    }
   ]
 }
