@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img">
+  <defs>
+    <linearGradient id="ddbGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#2E46C0"/>
+      <stop offset="100%" stop-color="#4053D6"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <rect x="2" y="2" width="20" height="20" rx="6" fill="url(#ddbGradient)"/>
+    <g fill="#FFFFFF" transform="translate(6,5)">
+      <path d="M6 0c2.485 0 4.5 1.12 4.5 2.5S8.485 5 6 5 1.5 3.88 1.5 2.5 3.515 0 6 0zM1.5 5.3v2.2C1.5 8.88 3.515 10 6 10s4.5-1.12 4.5-2.5V5.3C9.81 6.144 7.992 6.6 6 6.6S2.19 6.144 1.5 5.3zm0 4v2.2C1.5 12.88 3.515 14 6 14s4.5-1.12 4.5-2.5v-2.2C9.81 10.144 7.992 10.6 6 10.6s-3.81-.456-4.5-1.3z"/>
+    </g>
+  </g>
+</svg>
